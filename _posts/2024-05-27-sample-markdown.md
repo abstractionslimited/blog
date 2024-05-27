@@ -1,0 +1,23 @@
+---
+layout: post
+title: Strapi Troubleshooting
+subtitle: Running Admin Panel
+gh-repo: abstractionslimited/club-national-strapi-v4
+gh-badge: [follow]
+tags: [strapi, next js, e-scommerce]
+comments: true
+# mathjax: true
+author: Khanya Kupelo
+---
+
+`The following tags are missing in the Root Layout: <html>, <body>.`
+
+- Tried removing cache and node_modules directories.
+- Reviewed the source code for any missing tags.
+- Ran `yarn build` again.
+- Updated Strapi dependency.
+
+## Problem 2: Strapi Loading Stuck
+
+- Updated the `.env` file.
+- Created Tokens on the admin.
