@@ -1,4 +1,8 @@
-# Projects
+---
+layout: page
+title: Projects
+subtitle: My passion projects
+---
 
 ## [Purcee Industrial Africa](https://purceeindustrial.africa/)
 
@@ -23,9 +27,11 @@ Purcee’s mission is to assist industry by providing a one stop, reliable sourc
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 
+---
 
-## Blog
+## [Blog](https://abstractionslimited.github.io/blog/)
 
+![Project Image](https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption
 
 ### description
