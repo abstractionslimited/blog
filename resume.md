@@ -52,4 +52,4 @@ subtitle: Pragmatic  | Blogger| Fast Adopter| Fast Adapter
 
 - **Blog:** [Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://abstractionslimited.github.io/blog/)
 
-- **Club National (Up Coming):** [fullstack to developer](https://clubnational.co.za/)
+- **Club National (Up Coming):** [Tailwind, Next JS, Strapi](https://clubnational.co.za/)
