@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Khanya Kupelo
 subtitle: Pragmatic  | Blogger| Fast Adopter| Fast Adapter
 ---
 
@@ -49,5 +49,6 @@ subtitle: Pragmatic  | Blogger| Fast Adopter| Fast Adapter
 
 #### **Passion Projects**
 
-- Purcee Industrial: [Lead contributor, enhancing functionality and performance through innovative features and optimizations](https://purceeindustrial.africa/).
-- Like Rick Rubin: [Like Rick Rubin: Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://abstractionslimited.github.io/Like-Rick-Rubin/)
+- **Purcee Industrial:** [Lead contributor, enhancing functionality and performance through innovative features and optimizations](https://purceeindustrial.africa/).
+
+- **Blog:** [Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://abstractionslimited.github.io/blog/)
