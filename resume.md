@@ -52,4 +52,4 @@ subtitle: Pragmatic  | Blogger| Fast Adopter| Fast Adapter
 
 - **Blog:** [Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://abstractionslimited.github.io/blog/)
 
-- **Blog:** [Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://abstractionslimited.github.io/blog/)
+- **Club National (Up Coming):** [Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://clubnational.co.za/)
